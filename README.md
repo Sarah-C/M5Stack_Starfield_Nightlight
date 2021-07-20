@@ -3,7 +3,7 @@
 /* 
  *  M5Stack - Core - Grey
  *  
- *  A little ight-light that animates pixels to simulate flying through a star field.
+ *  A little night-light that animates pixels to simulate flying through a star field.
  *  Best used connected to a USB power source.
  *  
  *  Based on the M5Stack example "TFT_Starfield".
