@@ -97,9 +97,9 @@ void setup() {
       colorLUT[12][i] = lcd.color565(255, 255, 255);
 
     if (random(100) < 95)
-      colorLUT[12][i] = lcd.color565(i, i, i);
+      colorLUT[13][i] = lcd.color565(i, i, i);
     else
-      colorLUT[12][i] = lcd.color565(255, 255, 255);  
+      colorLUT[13][i] = lcd.color565(255, 255, 255);  
   }
 
   M5.Lcd.setBrightness(_CalcBrightness(brightnessCount));
